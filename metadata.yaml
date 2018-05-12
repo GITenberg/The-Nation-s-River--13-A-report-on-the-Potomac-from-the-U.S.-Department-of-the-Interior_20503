@@ -1,0 +1,35 @@
+_repo: The-Nation-s-River--13-A-report-on-the-Potomac-from-the-U.S.-Department-of-the-Interior_20503
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: United States. Federal Interdepartmental Task Force on the Potomac
+    alias: United States. Department of the Interior. Federal Interdepartmental Task
+      Force on the Potomac
+    gutenberg_agent_id: '37299'
+    url: http://www.gutenberg.org/2009/agents/37299
+covers:
+- cover_type: archival
+  image_path: 20503-h/images/imgfcover.jpg
+creator:
+  author:
+    agent_name: United States. Department of the Interior
+    aliases:
+    - Interior, United States Dept. of the
+    - United States. Dept. of the Interior
+    gutenberg_agent_id: '9338'
+    url: http://www.gutenberg.org/2009/agents/9338
+description: ''
+gutenberg_issued: '2007-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Potomac River'
+- !lcc 'F106'
+title: "The Nation's River: A report on the Potomac\r\nFrom the U.S. Department of\
+  \ the Interior"
+url: http://www.gutenberg.org/ebooks/20503

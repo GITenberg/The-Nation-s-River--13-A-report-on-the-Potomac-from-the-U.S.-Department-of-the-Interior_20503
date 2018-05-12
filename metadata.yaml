@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '9338'
     url: http://www.gutenberg.org/2009/agents/9338
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20503#The-Nation-s-River--13-A-report-on-the-Potomac-from-the-U.S.-Department-of-the-Interior
 gutenberg_issued: '2007-02-02'
 gutenberg_type: Text
 identifiers:
